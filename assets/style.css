@@ -153,3 +153,9 @@ align-items: center;
 .right-3-image{
     width: 20%;
     }
+
+footer{
+    position: fixed;
+    bottom: 0%;
+
+}
